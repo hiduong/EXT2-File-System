@@ -1,0 +1,6 @@
+echo "Enter Disk :"
+
+read disk
+
+sudo mount $disk /mnt
+ls -l /mnt

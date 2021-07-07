@@ -1,0 +1,11 @@
+rm mydisk
+
+rm mydisk2
+
+cp /home/hien/Desktop/cs360/mydisk /home/hien/Desktop/project
+
+cp /home/hien/Desktop/cs/mydisk2 /home/hien/Desktop/project
+
+cc main.c
+
+./a.out
